@@ -6,8 +6,8 @@
       "nombre": "Santa Cruz",
       "resumen": {
         "votaron": 167966,
-        "totales1":175776,
-        "mesas": { "totales": 950, "escrutadas": 920 },
+        "totales1":271618,
+        "mesas": { "totales": 879, "escrutadas": 875 },
         "votos": {
           "afirmativos": 165749,
           "blancos": 2217,
@@ -81,6 +81,539 @@
         { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 560 }
 
       ]
+    },
+    {
+      "id": " CmdteLuisPiedrabuena",
+      "tipo": "localidad",
+      "nombre": " Cmdte. Luis Piedrabuena",
+      "resumen": {
+        "votaron": 4766,
+        "totales1":7254,
+        "mesas": { "totales": 23, "escrutadas": 23 },
+        "votos": {
+          "afirmativos": 4460,
+          "blancos": 52,
+          "nulos": 247,
+          "recurridos": 7,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 1703 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 1583 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 677 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 147 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 80 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 123 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 49 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 98 }
+
+      ]
+    },
+    {
+      "id": "ptosantacruz",
+      "tipo": "localidad",
+      "nombre": "Pto Santa Cruz",
+      "resumen": {
+        "votaron": 2882,
+        "totales1":4376,
+        "mesas": { "totales": 14, "escrutadas": 14 },
+        "votos": {
+          "afirmativos": 2682,
+          "blancos": 33,
+          "nulos": 162,
+          "recurridos": 5,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 903 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 1020 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 425 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 11 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 51 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 94 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 36 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 42 }
+
+      ]
+    },
+        {
+      "id": "deseado",
+      "tipo": "localidad",
+      "nombre": "Pto Deseado",
+      "resumen": {
+        "votaron": 7625,
+        "totales1":12479,
+        "mesas": { "totales": 40, "escrutadas": 40 },
+        "votos": {
+          "afirmativos": 7126,
+          "blancos": 102,
+          "nulos": 390,
+          "recurridos": 6,
+          "impugnados": 1
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 2749 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 2424 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 973 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 426 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 97 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 266 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 92 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 99 }
+
+      ]
+    },
+      {
+      "id": "jaramillo",
+      "tipo": "localidad",
+      "nombre": "Jaramillo",
+      "resumen": {
+        "votaron": 556,
+        "totales1":914,
+        "mesas": { "totales": 3, "escrutadas": 3 },
+        "votos": {
+          "afirmativos": 542,
+          "blancos": 4,
+          "nulos": 10,
+          "recurridos": 0,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 91 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 52 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 366 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 10 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 7 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 5 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 2 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 9 }
+
+      ]
+    },
+    {
+      "id": "cañadon",
+      "tipo": "localidad",
+      "nombre": "Cañadon Seco",
+      "resumen": {
+        "votaron": 775,
+        "totales1":1018,
+        "mesas": { "totales": 4, "escrutadas": 4 },
+        "votos": {
+          "afirmativos": 732,
+          "blancos": 29,
+          "nulos": 8,
+          "recurridos": 0,
+          "impugnados": 6
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 190 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 274 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 120 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 30 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 50 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 54 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 9 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 5 }
+
+      ]
+    },
+      {
+      "id": "picotruncado",
+      "tipo": "localidad",
+      "nombre": "Pico Truncado",
+      "resumen": {
+        "votaron": 1258,
+        "totales1":19844,
+        "mesas": { "totales": 62, "escrutadas": 62 },
+        "votos": {
+          "afirmativos": 11784,
+          "blancos": 197,
+          "nulos": 587,
+          "recurridos": 10,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 3515 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 4255 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 1901 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 256 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 657 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 681 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 285 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 234 }
+
+      ]
+    },
+     {
+      "id": "lasheras",
+      "tipo": "localidad",
+      "nombre": "Las Heras",
+      "resumen": {
+        "votaron": 11917,
+        "totales1":18871,
+        "mesas": { "totales": 59, "escrutadas": 59 },
+        "votos": {
+          "afirmativos": 11204,
+          "blancos": 157,
+          "nulos": 547,
+          "recurridos": 9,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 3896 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 3456 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 2485 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 2013 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 187 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 579 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 164 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 224 }
+
+      ]
+    },
+    {
+      "id": "laesperanza",
+      "tipo": "localidad",
+      "nombre": "La Esperanza",
+      "resumen": {
+        "votaron": 22,
+        "totales1":65,
+        "mesas": { "totales": 1, "escrutadas": 1 },
+        "votos": {
+          "afirmativos": 22,
+          "blancos": 0,
+          "nulos": 0,
+          "recurridos": 0,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 6 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 5 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 11 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 0 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 0 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 0 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 0 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 0 }
+
+      ]
+    },
+    {
+      "id": "rioturbio",
+      "tipo": "localidad",
+      "nombre": "Rio Turbio",
+      "resumen": {
+        "votaron": 6394,
+        "totales1":9338,
+        "mesas": { "totales": 30, "escrutadas": 30 },
+        "votos": {
+          "afirmativos": 6059,
+          "blancos": 82,
+          "nulos": 240,
+          "recurridos": 11,
+          "impugnados": 2
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 1018 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 2643 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 1779 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 114 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 95 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 245 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 47 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 118 }
+
+      ]
+    },
+    {
+      "id": "28denov",
+      "tipo": "localidad",
+      "nombre": "28 de Noviembre",
+      "resumen": {
+        "votaron": 5112,
+        "totales1":7508,
+        "mesas": { "totales": 24, "escrutadas": 24 },
+        "votos": {
+          "afirmativos": 4765,
+          "blancos": 84,
+          "nulos": 251,
+          "recurridos": 12,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 1138 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 1934 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 1287 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 84 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 50 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 143 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 61 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 68 }
+
+      ]
+    },
+    {
+      "id": "treslagos",
+      "tipo": "localidad",
+      "nombre": "Tres Lagos",
+      "resumen": {
+        "votaron": 208,
+        "totales1":347,
+        "mesas": { "totales": 2, "escrutadas": 2 },
+        "votos": {
+          "afirmativos": 201,
+          "blancos": 3,
+          "nulos": 4,
+          "recurridos": 0,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 32 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 46 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 97 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 10 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 6 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 2 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 2 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 6 }
+
+      ]
+    },
+    {
+      "id": "chalten",
+      "tipo": "localidad",
+      "nombre": "Chalten",
+      "resumen": {
+        "votaron": 1172,
+        "totales1":2112,
+        "mesas": { "totales": 7, "escrutadas": 7 },
+        "votos": {
+          "afirmativos": 1130,
+          "blancos": 15,
+          "nulos": 27,
+          "recurridos": 0,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 232 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 396 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 244 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 22 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 46 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 154 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 18 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 18 }
+
+      ]
+    },
+    {
+      "id": "calafate",
+      "tipo": "localidad",
+      "nombre": "Calafate",
+      "resumen": {
+        "votaron": 13629,
+        "totales1":21375,
+        "mesas": { "totales": 67, "escrutadas": 67 },
+        "votos": {
+          "afirmativos": 12976,
+          "blancos": 179,
+          "nulos": 460,
+          "recurridos": 14,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 4434 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 6416 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 770 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 283 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 245 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 496 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 134 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 198 }
+
+      ]
+    },
+    {
+      "id": "peritomoreno",
+      "tipo": "localidad",
+      "nombre": "Perito Moreno",
+      "resumen": {
+        "votaron": 3860,
+        "totales1":6450,
+        "mesas": { "totales": 22, "escrutadas": 21 },
+        "votos": {
+          "afirmativos": 3606,
+          "blancos": 56,
+          "nulos": 12,
+          "recurridos": 6,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 1091 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 1112 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 1052 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 56 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 39 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 166 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 37 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 53 }
+
+      ]
+    },
+    {
+      "id": "losantiguos",
+      "tipo": "localidad",
+      "nombre": "Los Antiguos",
+      "resumen": {
+        "votaron": 2243,
+        "totales1":3970,
+        "mesas": { "totales": 13, "escrutadas": 13 },
+        "votos": {
+          "afirmativos": 2075,
+          "blancos": 36,
+          "nulos": 132,
+          "recurridos": 0,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 601 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 711 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 452 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 121 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 44 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 96 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 19 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 31 }
+
+      ]
+    },
+      {
+      "id": "sanjulian",
+      "tipo": "localidad",
+      "nombre": "San Julian",
+      "resumen": {
+        "votaron": 6193,
+        "totales1":10594,
+        "mesas": { "totales": 34, "escrutadas": 34 },
+        "votos": {
+          "afirmativos": 5698,
+          "blancos": 109,
+          "nulos": 375,
+          "recurridos": 11,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 2411 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 1800 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 821 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 150 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 105 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 250 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 56 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 105 }
+
+      ]
+    },
+    {
+      "id": "bajocaracoles",
+      "tipo": "localidad",
+      "nombre": "Bajo Caracoles",
+      "resumen": {
+        "votaron": 8,
+        "totales1":25,
+        "mesas": { "totales": 1, "escrutadas": 1 },
+        "votos": {
+          "afirmativos": 8,
+          "blancos": 0,
+          "nulos": 0,
+          "recurridos": 0,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 5 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 0 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 2 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 1 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 0 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 0 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 0 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 0 }
+
+      ]
+    },
+     {
+      "id": "lagoposadas",
+      "tipo": "localidad",
+      "nombre": "Lago Posadas",
+      "resumen": {
+        "votaron": 302,
+        "totales1":463,
+        "mesas": { "totales": 2, "escrutadas": 2 },
+        "votos": {
+          "afirmativos": 278,
+          "blancos": 11,
+          "nulos": 13,
+          "recurridos": 0,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 28 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 95 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 125 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 1 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 4 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 8 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 4 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 2 }
+
+      ]
+    },
+     {
+      "id": "gobgregores",
+      "tipo": "localidad",
+      "nombre": "Gob Gregores",
+      "resumen": {
+        "votaron": 2504,
+        "totales1":3914,
+        "mesas": { "totales": 13, "escrutadas": 13 },
+        "votos": {
+          "afirmativos": 2348,
+          "blancos": 32,
+          "nulos": 124,
+          "recurridos": 0,
+          "impugnados": 0
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 720 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 977 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 397 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 78 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 29 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 98 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 13 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 36 }
+
+      ]
     }
+    
   ]
 }
