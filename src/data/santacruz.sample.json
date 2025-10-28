@@ -1,0 +1,86 @@
+{
+  "scopes": [
+    {
+      "id": "provincia", 
+      "tipo": "provincia",
+      "nombre": "Santa Cruz",
+      "resumen": {
+        "votaron": 167966,
+        "totales1":175776,
+        "mesas": { "totales": 950, "escrutadas": 920 },
+        "votos": {
+          "afirmativos": 165749,
+          "blancos": 2217,
+          "nulos": 7607,
+          "recurridos": 187,
+          "impugnados": 16
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 52487 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 53215 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 25646 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 12839 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 5903 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 8071 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 2078 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 5510 }
+      ]
+    },
+    {
+      "id": "rio-gallegos",
+      "tipo": "localidad",
+      "nombre": "Río Gallegos (Güer Aike)",
+      "resumen": {
+        "votaron": 61818,
+        "totales1":91481,
+        "mesas": { "totales": 290, "escrutadas": 290 },
+        "votos": {
+          "afirmativos": 59165,
+          "blancos": 595,
+          "nulos": 2444,
+          "recurridos": 55,
+          "impugnados": 5
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 18831 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 16104 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 6257 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 9123 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 1679 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 2442 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 684 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 3599 }
+      ]
+    },
+    {
+      "id": "caleta-olivia",
+      "tipo": "localidad",
+      "nombre": "Caleta Olivia",
+      "resumen": {
+        "votaron": 30853,
+        "totales1":48533,
+        "mesas": { "totales": 154, "escrutadas": 154 },
+        "votos": {
+          "afirmativos": 29369,
+          "blancos": 1202,
+          "nulos": 3873,
+          "recurridos": 88,
+          "impugnados": 10
+        }
+      },
+      "agrupaciones": [
+        { "id": "lla", "nombre": "La Libertad Avanza", "votos": 8800 },
+        { "id": "fsc", "nombre": "Fuerza Santacruceña", "votos": 7814 },
+        { "id": "psc", "nombre": "Por Santa Cruz", "votos": 5310 },
+        { "id": "pro", "nombre": "PRO – Propuesta Republicana", "votos": 1587 },
+        { "id": "cc",  "nombre": "Coalición Cívica – ARI", "votos": 2425 },
+        { "id": "fitu","nombre": "Frente de Izquierda (FIT-U)", "votos": 2161 },
+        { "id": "mas", "nombre": "Movimiento al Socialismo (MAS)", "votos": 349 },
+        { "id": "pa", "nombre": "Proyecto Alternativo", "votos": 560 }
+
+      ]
+    }
+  ]
+}
